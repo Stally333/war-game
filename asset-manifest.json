@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/war-game/static/css/main.7f837edb.css",
-    "main.js": "/war-game/static/js/main.f4e00357.js",
+    "main.css": "/war-game/static/css/main.7f6ff855.css",
+    "main.js": "/war-game/static/js/main.ce8de32c.js",
     "static/js/453.245f90c5.chunk.js": "/war-game/static/js/453.245f90c5.chunk.js",
     "index.html": "/war-game/index.html",
-    "main.7f837edb.css.map": "/war-game/static/css/main.7f837edb.css.map",
-    "main.f4e00357.js.map": "/war-game/static/js/main.f4e00357.js.map",
+    "main.7f6ff855.css.map": "/war-game/static/css/main.7f6ff855.css.map",
+    "main.ce8de32c.js.map": "/war-game/static/js/main.ce8de32c.js.map",
     "453.245f90c5.chunk.js.map": "/war-game/static/js/453.245f90c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f837edb.css",
-    "static/js/main.f4e00357.js"
+    "static/css/main.7f6ff855.css",
+    "static/js/main.ce8de32c.js"
   ]
 }
